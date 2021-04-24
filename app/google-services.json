@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1068743923941",
+    "firebase_url": "https://creativbrain2.firebaseio.com",
+    "project_id": "creativbrain2",
+    "storage_bucket": "creativbrain2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1068743923941:android:41f12f8fe7e414bb",
+        "android_client_info": {
+          "package_name": "com.creative.brain"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1068743923941-pssih6ar172hg5r2pgpuo55c3ucvorn3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.creative.brain",
+            "certificate_hash": "b7458e4ce8d4e12093280bc4c039604009dec339"
+          }
+        },
+        {
+          "client_id": "1068743923941-hni1e32ge35s5u31l3nmecntjd9uhbb5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHNqY6CfLLtToNDvzCcjilEjNXr02RZf4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1068743923941-hni1e32ge35s5u31l3nmecntjd9uhbb5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
