@@ -41,6 +41,7 @@ import static com.creative.brain.R.drawable.buttonstyle;
 
 public class ProfileFragment extends Fragment {
 
+
     ImageView image_profile, options;
     TextView posts, followers, following, fullname, bio, username;
     Button edit_profile;
